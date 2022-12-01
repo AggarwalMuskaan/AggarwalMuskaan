@@ -2,7 +2,7 @@
 
 - 😊I'm a Student, Developer, and A Contributor.
 - 🔭 I just started working in open source.
-- 🏫 I am currently in my second year.
+- 🏫 I am currently in my third year.
 
 <p align="center">
  <img align="centre" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -12,13 +12,13 @@
 <!-- <h3 align="center">Connect with me</h3>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/msaini0r/">
+   <a href="https://www.linkedin.com/in/muskaan01a/">
 		<img src="https://img.shields.io/badge/Linkedin-2088FF?&style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="mailto:msaini0r@gmail.com">
+	<a href="mailto:muskaanaggarwal1502@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
-  	<a href="https://twitter.com/msaini0r">
+  	<a href="https://twitter.com/Muskaan_01_">
 		<img src="https://img.shields.io/badge/Twitter-00cbe6?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a> -->
 <!-- 	
@@ -27,7 +27,7 @@
 <h3 align="center">⚡Connect with me⚡</h3>
 
 <p align="center">
-   <!--<a href="https://www.linkedin.com/in/msaini0r/">
+   <!--<a href="https://www.linkedin.com/in/muskaan01a/">
 		<img src="https://img.shields.io/badge/Linkedin-2088FF?&style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>-->
 	<a href="mailto:muskaanaggawal1502@gmail.com">
