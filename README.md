@@ -41,18 +41,11 @@
 	<a href="https://html.com/">
 	   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html" />&nbsp;&nbsp;
 	</a>
-	<a href="https://www.w3.org/TR/css-2020/">
-	   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />&nbsp;&nbsp;
-	</a>
-	<a href="https://www.javascript.com/">
-	   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />&nbsp;&nbsp;
-	</a>
+	
 	<a href="https://www.java.com/en/">
 	   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
 	</a>
-	<a href="https://www.mongodb.com/">
-	   <img src="https://img.shields.io/badge/MongoDB-239120?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />&nbsp;&nbsp;
-	</a>
+	
 	<a href="https://git-scm.com/">
 	   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
 	</a>
