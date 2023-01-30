@@ -43,7 +43,7 @@
 	</a>
 	
 	<a href="https://www.java.com/en/">
-	   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
+	   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>&nbsp;&nbsp;
 	</a>
 	
 	<a href="https://git-scm.com/">
