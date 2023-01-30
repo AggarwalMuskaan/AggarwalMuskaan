@@ -41,11 +41,9 @@
 	<a href="https://html.com/">
 	   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html" />&nbsp;&nbsp;
 	</a>
-	
 	<a href="https://www.java.com/en/">
 	   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>&nbsp;&nbsp;
 	</a>
-	
 	<a href="https://git-scm.com/">
 	   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
 	</a>
